@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(11/20/2018)
 
 ### Student Name:  
-(First and Last Name)
+(Schuyler Hample)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Getting hands on expierence developing a photo gallery application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://nightschuy.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. how to incorperate loops into the development of photo gallery applications
+2. incorperating correct syntax with large amounts of code
+3. creating a fluid, smooth photo gallery
 
